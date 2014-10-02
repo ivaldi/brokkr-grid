@@ -1,0 +1,23 @@
+{
+  "name": "brokkr-grid",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ivaldi/brokkr-grid",
+  "authors": [
+    "Zurb"
+  ],
+  "description": "CSS grid system, clone from Zurb Foundation 5 grid.",
+  "main": "grid.min.css",
+  "keywords": [
+    "css",
+    "oocss",
+    "grid"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
